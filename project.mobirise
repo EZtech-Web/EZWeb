@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "EZ-Web",
+    "name": "EZWeb Cyber Cloud",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -67,7 +67,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 66,
-    "versionPublish": "5.8.4",
+    "versionPublish": "5.8.18",
     "favicon": "@PROJECT_PATH@/assets/images/webqr-icon.ico",
     "imageResize": false,
     "robotsSwitcher": true,
@@ -78,10 +78,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "hbcozububa",
+    "mbrsiteDomain": "yy6k10upnk",
     "witsec-white-label": true,
     "witsec-mailform": false,
-    "witsec-language": "vi",
     "witsec-mailform-to": "Webmaster@EZtech.OOO",
     "witsec-mailform-to-alt": "",
     "witsec-mailform-from": "Webmaster@EZtech.OOO",
@@ -116,13 +115,14 @@
     "global_after_body": "",
     "publishEditFolder": false,
     "publishChangesOnly": false,
-    "usedWebp": false
+    "usedWebp": false,
+    "witsec-search": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "EZ-Web Cyber Cloud",
+        "title": "EZWeb Cyber Cloud",
         "meta_descr": "QR-EZ | EZWeb | QR-WEBSITE | QR-CODE",
         "header_custom": "",
         "footer_custom": "",
