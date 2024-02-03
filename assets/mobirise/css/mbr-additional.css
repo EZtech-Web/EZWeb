@@ -704,6 +704,101 @@ section.lazy-placeholder:after {
   color: #ffffff;
   font-family: Signika;
 }
+.cid-t7oYJ3YJZG {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f4f1f1;
+}
+.cid-t7oYJ3YJZG .mbr-section {
+  text-align: center;
+  color: #fff;
+}
+.cid-t7oYJ3YJZG .carousel {
+  margin: 0px 0;
+  background: #f4f1f1;
+}
+.cid-t7oYJ3YJZG .carousel .item {
+  text-align: center;
+  overflow: hidden;
+  height: 475px;
+}
+.cid-t7oYJ3YJZG .item img {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+.cid-t7oYJ3YJZG .carousel .carousel-control {
+  width: 50px;
+  height: 50px;
+  background: #000;
+  margin: auto 0;
+  opacity: 0.8;
+}
+.cid-t7oYJ3YJZG .carousel .carousel-control:hover {
+  opacity: 0.9;
+}
+.cid-t7oYJ3YJZG .carousel .carousel-control i {
+  font-size: 41px;
+  margin-top: 3px;
+}
+.cid-t7oYJ3YJZG .carousel-caption h3,
+.cid-t7oYJ3YJZG .carousel-caption p {
+  color: #fff;
+  display: inline-block;
+  font-family: 'Signika', sans-serif;
+  text-shadow: none;
+  margin-bottom: 20px;
+}
+.cid-t7oYJ3YJZG .carousel-caption h3 {
+  background: #226100;
+  padding: 12px 24px;
+  font-size: 40px;
+  text-transform: none;
+}
+.cid-t7oYJ3YJZG .carousel-caption p {
+  background: #009e04;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 300;
+}
+.cid-t7oYJ3YJZG .carousel-indicators {
+  margin-top: 0px;
+  margin-right: 0%;
+  margin-left: 0%;
+  position: relative;
+  background: #ccc;
+}
+.cid-t7oYJ3YJZG .carousel-indicators div.active {
+  background: #004607;
+  border-color: #004607;
+  opacity: 10;
+}
+.cid-t7oYJ3YJZG .carousel .nav {
+  background: #eee;
+  font-family: Signika;
+}
+.cid-t7oYJ3YJZG .carousel .nav a {
+  color: #333;
+  border-radius: 0;
+  font-size: 85%;
+  padding: 10px 16px;
+  background: transparent;
+}
+.cid-t7oYJ3YJZG .carousel .nav .active a {
+  color: #fff;
+  background: #004607;
+}
+.cid-t7oYJ3YJZG .carousel .nav strong {
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 110%;
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 600px) {
+  .cid-t7oYJ3YJZG .carousel-indicators {
+    display: none;
+  }
+}
 .cid-t7p4nzkyvR {
   z-index: 1000;
   width: 100%;
@@ -1067,101 +1162,6 @@ section.lazy-placeholder:after {
     width: 175%;
     max-width: calc(100% + 2rem);
     left: -1rem;
-  }
-}
-.cid-t7oYJ3YJZG {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #f4f1f1;
-}
-.cid-t7oYJ3YJZG .mbr-section {
-  text-align: center;
-  color: #fff;
-}
-.cid-t7oYJ3YJZG .carousel {
-  margin: 0px 0;
-  background: #f4f1f1;
-}
-.cid-t7oYJ3YJZG .carousel .item {
-  text-align: center;
-  overflow: hidden;
-  height: 475px;
-}
-.cid-t7oYJ3YJZG .item img {
-  margin: 0 auto;
-  width: 100%;
-  height: 100%;
-}
-.cid-t7oYJ3YJZG .carousel .carousel-control {
-  width: 50px;
-  height: 50px;
-  background: #000;
-  margin: auto 0;
-  opacity: 0.8;
-}
-.cid-t7oYJ3YJZG .carousel .carousel-control:hover {
-  opacity: 0.9;
-}
-.cid-t7oYJ3YJZG .carousel .carousel-control i {
-  font-size: 41px;
-  margin-top: 3px;
-}
-.cid-t7oYJ3YJZG .carousel-caption h3,
-.cid-t7oYJ3YJZG .carousel-caption p {
-  color: #fff;
-  display: inline-block;
-  font-family: 'Signika', sans-serif;
-  text-shadow: none;
-  margin-bottom: 20px;
-}
-.cid-t7oYJ3YJZG .carousel-caption h3 {
-  background: #226100;
-  padding: 12px 24px;
-  font-size: 40px;
-  text-transform: none;
-}
-.cid-t7oYJ3YJZG .carousel-caption p {
-  background: #009e04;
-  padding: 10px 20px;
-  font-size: 20px;
-  font-weight: 300;
-}
-.cid-t7oYJ3YJZG .carousel-indicators {
-  margin-top: 0px;
-  margin-right: 0%;
-  margin-left: 0%;
-  position: relative;
-  background: #ccc;
-}
-.cid-t7oYJ3YJZG .carousel-indicators div.active {
-  background: #004607;
-  border-color: #004607;
-  opacity: 10;
-}
-.cid-t7oYJ3YJZG .carousel .nav {
-  background: #eee;
-  font-family: Signika;
-}
-.cid-t7oYJ3YJZG .carousel .nav a {
-  color: #333;
-  border-radius: 0;
-  font-size: 85%;
-  padding: 10px 16px;
-  background: transparent;
-}
-.cid-t7oYJ3YJZG .carousel .nav .active a {
-  color: #fff;
-  background: #004607;
-}
-.cid-t7oYJ3YJZG .carousel .nav strong {
-  display: block;
-  font-family: 'Roboto', sans-serif;
-  font-size: 110%;
-  text-transform: uppercase;
-}
-@media only screen and (max-width: 600px) {
-  .cid-t7oYJ3YJZG .carousel-indicators {
-    display: none;
   }
 }
 .cid-t8hjQwoCQs {
