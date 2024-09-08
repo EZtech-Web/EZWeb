@@ -21,15 +21,15 @@
 		];
 
 		if (typeof Promise === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-promise-polyfill.js');
+			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-promise-polyfill.js');
 		}
 
 		if (typeof Symbol === 'undefined' || typeof Symbol.iterator === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-iterator-polyfill.js');
+			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-iterator-polyfill.js');
 		}
 
 		if (typeof Object.entries === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-entries-polyfill.js');
+			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-entries-polyfill.js');
 		}
 
 		if (!window.crypto) {
