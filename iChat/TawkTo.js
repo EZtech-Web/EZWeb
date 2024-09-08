@@ -12,12 +12,12 @@
 		window.$_Tawk.init = true;
 
 		var files = [
-			'https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-main.js',
-			'https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-vendor.js',
-			'https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-chunk-vendors.js',
+			'https://www.ezweb.cc/iChat/TWK2024/twk-main.js',
+			'https://www.ezweb.cc/iChat/TWK2024/twk-vendor.js',
+			'https://www.ezweb.cc/iChat/TWK2024/twk-chunk-vendors.js',
 			'https://www.ezweb.cc/iChat/TawkToApp.js',
-			'https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-runtime.js',
-			'https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-app.js'
+			'https://www.ezweb.cc/iChat/TWK2024/twk-runtime.js',
+			'https://www.ezweb.cc/iChat/TWK2024/twk-app.js'
 		];
 
 		if (typeof Promise === 'undefined') {
