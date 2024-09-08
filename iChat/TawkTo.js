@@ -37,15 +37,15 @@
 		}
 
 		if (typeof Event !== 'function') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-event-polyfill.js');
+			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-event-polyfill.js');
 		}
 
 		if (!Object.values) {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-object-values-polyfill.js');
+			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-object-values-polyfill.js');
 		}
 
 		if (typeof Array.prototype.find === 'undefined') {
-			files.unshift('https://embed.tawk.to/_s/v4/app/66790c3897f/js/twk-arr-find-polyfill.js');
+			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-arr-find-polyfill.js');
 		}
 
 		var s0=document.getElementsByTagName('script')[0];
