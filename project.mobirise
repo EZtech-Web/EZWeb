@@ -40,11 +40,6 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [
       {
-        "css": "'Signika', sans-serif",
-        "name": "Signika",
-        "url": "https://fonts.googleapis.com/css?family=Signika:300,400,500,600,700"
-      },
-      {
         "css": "'Calistoga', display",
         "name": "Calistoga",
         "url": "https://fonts.googleapis.com/css?family=Calistoga:400"
@@ -63,6 +58,11 @@
         "css": "'Philosopher', sans-serif",
         "name": "Philosopher",
         "url": "https://fonts.googleapis.com/css?family=Philosopher:400,400i,700,700i"
+      },
+      {
+        "css": "'Signika', sans-serif",
+        "name": "Signika",
+        "url": "https://fonts.googleapis.com/css?family=Signika:300,400,500,600,700"
       }
     ],
     "versionFirst": "4.7.6",
