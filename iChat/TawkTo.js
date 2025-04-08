@@ -12,24 +12,24 @@
 		window.$_Tawk.init = true;
 
 		var files = [
-			'https://www.ezweb.cc/iChat/TWK2024/twk-main.js',
-			'https://www.ezweb.cc/iChat/TWK2024/twk-vendor.js',
-			'https://www.ezweb.cc/iChat/TWK2024/twk-chunk-vendors.js',
-			'https://www.ezweb.cc/iChat/TawkToApp.js',
-			'https://www.ezweb.cc/iChat/TWK2024/twk-runtime.js',
-			'https://www.ezweb.cc/iChat/TWK2024/twk-app.js'
+			'https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-main.js',
+			'https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-vendor.js',
+			'https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-chunk-vendors.js',
+			'https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-chunk-common.js',
+			'https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-runtime.js',
+			'https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-app.js'
 		];
 
 		if (typeof Promise === 'undefined') {
-			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-promise-polyfill.js');
+			files.unshift('https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-promise-polyfill.js');
 		}
 
 		if (typeof Symbol === 'undefined' || typeof Symbol.iterator === 'undefined') {
-			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-iterator-polyfill.js');
+			files.unshift('https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-iterator-polyfill.js');
 		}
 
 		if (typeof Object.entries === 'undefined') {
-			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-entries-polyfill.js');
+			files.unshift('https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-entries-polyfill.js');
 		}
 
 		if (!window.crypto) {
@@ -37,15 +37,15 @@
 		}
 
 		if (typeof Event !== 'function') {
-			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-event-polyfill.js');
+			files.unshift('https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-event-polyfill.js');
 		}
 
 		if (!Object.values) {
-			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-object-values-polyfill.js');
+			files.unshift('https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-object-values-polyfill.js');
 		}
 
 		if (typeof Array.prototype.find === 'undefined') {
-			files.unshift('https://www.ezweb.cc/iChat/TWK2024/twk-arr-find-polyfill.js');
+			files.unshift('https://embed.tawk.to/_s/v4/app/67f4b2d4927/js/twk-arr-find-polyfill.js');
 		}
 
 		var s0=document.getElementsByTagName('script')[0];
